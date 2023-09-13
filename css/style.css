@@ -1440,6 +1440,10 @@ ul.list {
   .order__select {
     min-width: 300px;
   }
+
+  .list {
+    width: 300px;
+  }
 }
 
 @media (hover: hover) {
